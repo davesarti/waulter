@@ -50,5 +50,3 @@ $$\log p_\theta(x) \ge \mathbb{E}_z[\log p_\theta(x|z)] - D_{KL}\big[q_\phi(z|x)
 
 $$z = \mu(x) + \sigma(x) \cdot \epsilon, \qquad \epsilon \sim \mathcal{N}(0, I)$$
 
-## Notes
-

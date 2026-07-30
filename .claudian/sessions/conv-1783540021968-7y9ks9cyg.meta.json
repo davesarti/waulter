@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783540021968-7y9ks9cyg",
+  "providerId": "claude",
+  "title": "Clarify g in first algorithm",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783540021969,
+  "updatedAt": 1783599508755,
+  "lastResponseAt": 1783592711810,
+  "sessionId": "f43d8a86-4796-4306-b3bd-6e824537697d",
+  "providerState": {
+    "providerSessionId": "f43d8a86-4796-4306-b3bd-6e824537697d"
+  },
+  "currentNote": "Deep Learning/03 - Optimization/03.1 - Types of Gradient Descent.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 473,
+    "cacheReadInputTokens": 32098,
+    "contextWindow": 1000000,
+    "contextTokens": 32573,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

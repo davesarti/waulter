@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783779292976-ojxg1wn9a",
+  "providerId": "claude",
+  "title": "Explain intractability in VAEs",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783779292977,
+  "updatedAt": 1783781484536,
+  "lastResponseAt": 1783779765564,
+  "sessionId": "38d7a82b-7ed4-44db-845a-77c6766b13cc",
+  "providerState": {
+    "providerSessionId": "38d7a82b-7ed4-44db-845a-77c6766b13cc"
+  },
+  "currentNote": "Deep Learning/09 - Generative Models/09.8 - Variational Autoencoders (VAEs).md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1054,
+    "cacheReadInputTokens": 24263,
+    "contextWindow": 1000000,
+    "contextTokens": 25319,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

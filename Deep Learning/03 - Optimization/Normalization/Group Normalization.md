@@ -4,6 +4,7 @@ tags:
   - normalization
 chapter: 3
 ---
+
 ## Group Normalization (GN)
 
 Group Normalization is a more modern technique that sits between [[Layer Normalization]] and [[Instance Normalization]]. The $C$ channels are divided into $G$ groups of size $C/G$, and normalization statistics are computed independently within each group, per example — without any dependency on the batch.

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783706781057-xq3rydh0r",
+  "providerId": "claude",
+  "title": "Explain GLUs in convolutional seq2seq",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783706781057,
+  "updatedAt": 1783761920180,
+  "lastResponseAt": 1783761820400,
+  "sessionId": "1388a9a2-5543-467f-ba26-cb87218e014d",
+  "providerState": {
+    "providerSessionId": "1388a9a2-5543-467f-ba26-cb87218e014d"
+  },
+  "currentNote": "Deep Learning/08 - Transformers/Architectures/Convolutional Seq2Seq.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

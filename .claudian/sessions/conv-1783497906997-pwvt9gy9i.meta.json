@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783497906997-pwvt9gy9i",
+  "providerId": "claude",
+  "title": "Create linked section notes for chapter",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783497907007,
+  "updatedAt": 1783522633214,
+  "lastResponseAt": 1783504868671,
+  "sessionId": "82da2aae-e05b-4adb-9a03-f3317ad18de3",
+  "providerState": {
+    "providerSessionId": "82da2aae-e05b-4adb-9a03-f3317ad18de3"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1063,
+    "cacheReadInputTokens": 66512,
+    "contextWindow": 200000,
+    "contextTokens": 67583,
+    "percentage": 34,
+    "contextWindowIsAuthoritative": true
+  }
+}

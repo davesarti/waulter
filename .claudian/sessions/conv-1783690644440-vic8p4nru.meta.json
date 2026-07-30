@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783690644440-vic8p4nru",
+  "providerId": "claude",
+  "title": "Explain RNN and sequence models",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783690644440,
+  "updatedAt": 1783697739931,
+  "lastResponseAt": 1783690715459,
+  "sessionId": "4e2b1d10-9bad-41e5-b804-f1bb20237efd",
+  "providerState": {
+    "providerSessionId": "4e2b1d10-9bad-41e5-b804-f1bb20237efd"
+  },
+  "currentNote": "Deep Learning/Deep Learning - Exam Questions.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1883,
+    "cacheReadInputTokens": 36290,
+    "contextWindow": 1000000,
+    "contextTokens": 38175,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}

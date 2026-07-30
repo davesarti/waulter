@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783846163670-q0im0i65n",
+  "providerId": "claude",
+  "title": "Explain noise prediction in text-to-image",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783846163670,
+  "updatedAt": 1783869840297,
+  "lastResponseAt": 1783846199495,
+  "sessionId": "b280f3e6-e187-449e-9470-944169e66cdb",
+  "providerState": {
+    "providerSessionId": "b280f3e6-e187-449e-9470-944169e66cdb"
+  },
+  "currentNote": "Deep Learning/10 - Diffusion Models/10.4 - DIffusion Model Architecture and Text Conditioning.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 4143,
+    "cacheReadInputTokens": 22215,
+    "contextWindow": 1000000,
+    "contextTokens": 26360,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

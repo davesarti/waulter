@@ -1,0 +1,100 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Deep Learning/00 - Introduction\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Deep Learning/01 - Feedforward Neural Networks\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Deep Learning/02 - Backpropagation\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Deep Learning/03 - Optimization\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Deep Learning/04 - Regularization\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Deep Learning/05 - Convolutional Neural Networks\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"Deep Learning/06 - Recurrent Neural Networks\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:\"Deep Learning/07 - Sequence Models\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:\"Deep Learning/08 - Transformers\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:\"Deep Learning/09 - Generative Models\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16756141
+      }
+    },
+    {
+      "query": "path:\"Deep Learning/10 - Diffusion Models\" ",
+      "color": {
+        "a": 1,
+        "rgb": 9043968
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 0.877986653645833,
+  "lineSizeMultiplier": 1.08733723958333,
+  "collapse-forces": true,
+  "centerStrength": 0.434163411458333,
+  "repelStrength": 10.3287760416667,
+  "linkStrength": 0.665364583333333,
+  "linkDistance": 285,
+  "scale": 0.7681636991978288,
+  "close": true
+}

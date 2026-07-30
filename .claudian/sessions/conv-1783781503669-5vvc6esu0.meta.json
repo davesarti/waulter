@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783781503669-5vvc6esu0",
+  "providerId": "claude",
+  "title": "Explain ELBO formula notation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783781503670,
+  "updatedAt": 1783783133493,
+  "lastResponseAt": 1783781524011,
+  "sessionId": "72d4c92f-501c-402a-93a6-336c095d213e",
+  "providerState": {
+    "providerSessionId": "72d4c92f-501c-402a-93a6-336c095d213e"
+  },
+  "currentNote": "Deep Learning/09 - Generative Models/09.8 - Variational Autoencoders (VAEs).md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 2372,
+    "cacheReadInputTokens": 20894,
+    "contextWindow": 1000000,
+    "contextTokens": 23268,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -31,4 +31,4 @@ The context vector $c_t$ is the weighted sum over the window:
 $$c_t = \sum_{j} \alpha_{tj}\, h_j$$
 
 The decoder hidden state and $c_t$ are concatenated and passed through a layer to produce $\tilde{h}_t$, which is used for the final prediction:
-$$\tilde{s}_t = \tanh\!\left(W_c[c_t;\, s_t]\right), \qquad p(y_t \mid y_{<t}, x) = \operatorname{softmax}(W_s\, \tilde{s}_t)$$
+$$\tilde{s}_t = \tanh\!\left(W_c[c_t;\, h_t]\right), \qquad p(y_t \mid y_{<t}, x) = \operatorname{softmax}(W_s\, \tilde{h}_t)$$

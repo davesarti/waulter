@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783525317526-21qggzugm",
+  "providerId": "claude",
+  "title": "Clarify why linear units lack activation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783525317527,
+  "updatedAt": 1783525362035,
+  "lastResponseAt": 1783525362035,
+  "sessionId": "39ffb212-750b-4633-b8a5-453e0d040d06",
+  "providerState": {
+    "providerSessionId": "39ffb212-750b-4633-b8a5-453e0d040d06"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 457,
+    "cacheReadInputTokens": 16515,
+    "contextWindow": 200000,
+    "contextTokens": 16980,
+    "percentage": 8,
+    "contextWindowIsAuthoritative": true
+  }
+}

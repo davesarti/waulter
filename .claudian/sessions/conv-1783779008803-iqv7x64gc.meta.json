@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783779008803-iqv7x64gc",
+  "providerId": "claude",
+  "title": "Explain VAE reconstruction loss",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783779008803,
+  "updatedAt": 1783779276208,
+  "lastResponseAt": 1783779097238,
+  "sessionId": "4260f978-2275-466b-befb-aa36343389bd",
+  "providerState": {
+    "providerSessionId": "4260f978-2275-466b-befb-aa36343389bd"
+  },
+  "currentNote": "Deep Learning/09 - Generative Models/09.7 - Autoencoders.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1202,
+    "cacheReadInputTokens": 24469,
+    "contextWindow": 1000000,
+    "contextTokens": 25673,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

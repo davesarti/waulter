@@ -22,9 +22,9 @@ chapter: 4
 
 ### Parameter Norm Penalties
 
-General regularized loss:
+The **[[03.1 - Types of Gradient Descent#Empirical Loss|empirical loss]]** $\hat{L}(\mathbf{W})$ (the average per-example loss over the training set) is augmented with a penalty term $\Omega(\mathbf{W})$ that discourages large weights, giving the general regularized loss:
 
-$$\tilde{L}(\mathbf{W}) = L(\mathbf{W}) + \lambda\,\Omega(\mathbf{W})$$
+$$\tilde{L}(\mathbf{W}) = \hat{L}(\mathbf{W}) + \lambda\,\Omega(\mathbf{W})$$
 
 | Method | Penalty $\Omega(\mathbf{W})$ | Effect on weights |
 |---|---|---|

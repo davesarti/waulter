@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783522637036-wxqsttfti",
+  "providerId": "claude",
+  "title": "Explain error function",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783522637036,
+  "updatedAt": 1783522650516,
+  "lastResponseAt": 1783522645927,
+  "sessionId": "0d9b9873-1a65-4c3c-a1da-659900f7c122",
+  "providerState": {
+    "providerSessionId": "0d9b9873-1a65-4c3c-a1da-659900f7c122"
+  },
+  "currentNote": "Deep Learning/01 - Feedforward Neural Networks/Activation Functions/GELU.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 791,
+    "cacheReadInputTokens": 15523,
+    "contextWindow": 200000,
+    "contextTokens": 16322,
+    "percentage": 8,
+    "contextWindowIsAuthoritative": true
+  }
+}

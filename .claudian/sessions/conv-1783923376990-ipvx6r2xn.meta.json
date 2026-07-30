@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783923376990-ipvx6r2xn",
+  "providerId": "claude",
+  "title": "Explain CycleGANs",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783923376990,
+  "updatedAt": 1783923413141,
+  "lastResponseAt": 1783923413141,
+  "sessionId": "3fbe8a19-e1e5-460d-a10d-5730be8d3386",
+  "providerState": {
+    "providerSessionId": "3fbe8a19-e1e5-460d-a10d-5730be8d3386"
+  },
+  "currentNote": "Deep Learning/10 - Diffusion Models/10.3 - Stochastic Equation and Denoising Score Matching.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 2326,
+    "cacheReadInputTokens": 23122,
+    "contextWindow": 1000000,
+    "contextTokens": 25450,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

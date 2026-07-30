@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783599518926-hlua8con5",
+  "providerId": "claude",
+  "title": "Explain convolution formula",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783599518927,
+  "updatedAt": 1783690628192,
+  "lastResponseAt": 1783599535635,
+  "sessionId": "7794c7bf-93c9-4201-9fca-26f6c2f57801",
+  "providerState": {
+    "providerSessionId": "7794c7bf-93c9-4201-9fca-26f6c2f57801"
+  },
+  "currentNote": "Deep Learning/05 - Convolutional Neural Networks/05.1 - Convolutions.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1265,
+    "cacheReadInputTokens": 20790,
+    "contextWindow": 1000000,
+    "contextTokens": 22057,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

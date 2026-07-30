@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783783159962-zh0mvr277",
+  "providerId": "claude",
+  "title": "Explain VQ-VAE autoregressive image generation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783783159962,
+  "updatedAt": 1783846145456,
+  "lastResponseAt": 1783783188829,
+  "sessionId": "717345e4-1cc9-4858-8914-d40a098d3982",
+  "providerState": {
+    "providerSessionId": "717345e4-1cc9-4858-8914-d40a098d3982"
+  },
+  "currentNote": "Deep Learning/09 - Generative Models/09.9 - VQ-VAEs.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1282,
+    "cacheReadInputTokens": 21087,
+    "contextWindow": 1000000,
+    "contextTokens": 22371,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

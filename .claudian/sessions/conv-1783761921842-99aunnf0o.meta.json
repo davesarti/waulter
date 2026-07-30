@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783761921842-99aunnf0o",
+  "providerId": "claude",
+  "title": "Clarify DCGAN upsampling methods",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783761921843,
+  "updatedAt": 1783778989647,
+  "lastResponseAt": 1783778118627,
+  "sessionId": "51204172-5418-40d6-9765-7bbcb24f2ea7",
+  "providerState": {
+    "providerSessionId": "51204172-5418-40d6-9765-7bbcb24f2ea7"
+  },
+  "currentNote": "Deep Learning/09 - Generative Models/09.2 - DCGANs.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 2406,
+    "cacheReadInputTokens": 37360,
+    "contextWindow": 1000000,
+    "contextTokens": 39768,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}

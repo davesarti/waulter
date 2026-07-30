@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783869858148-6aeehwrtj",
+  "providerId": "claude",
+  "title": "Explain implicit density estimation in GANs",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783869858148,
+  "updatedAt": 1783923367493,
+  "lastResponseAt": 1783870160754,
+  "sessionId": "52503ac5-ac46-43e1-a5cf-37405a1e7ccb",
+  "providerState": {
+    "providerSessionId": "52503ac5-ac46-43e1-a5cf-37405a1e7ccb"
+  },
+  "currentNote": "Deep Learning/09 - Generative Models/09.8 - Variational Autoencoders (VAEs).md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1947,
+    "cacheReadInputTokens": 23320,
+    "contextWindow": 1000000,
+    "contextTokens": 25269,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}

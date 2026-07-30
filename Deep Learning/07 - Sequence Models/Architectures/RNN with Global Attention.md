@@ -5,7 +5,6 @@ tags:
 year: 2015
 task: machine-translation
 ---
-
 **RNN with Global Attention** extends [[RNN Encoder-Decoder]] by replacing the single fixed context vector with a **step-specific context vector** $c_t$, computed as a weighted sum over *all* encoder hidden states.
 
 ![[Pasted image 20260706171008.png]]
